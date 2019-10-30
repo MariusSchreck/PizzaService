@@ -1,5 +1,5 @@
 # Pizzaservice
-Der *Pizzaservice* entstand im Praktikum des Moduls *Entwicklung webbasierter Anwendungen* (Development of Web-Based Applications).
+Der *Pizzaservice* entstand im Praktikum des Moduls *Entwicklung webbasierter Anwendungen*.
 
 ### Datenbank
 Es wurde eine Datenbank mit Hilfe von *XAMPP* und *MariaDB* erstellt. Mit der SQL-Datei [pizzaservice.sql](pizzaservice.sql) kann eine für das Projekt passende Datenbank erstellt werden.
